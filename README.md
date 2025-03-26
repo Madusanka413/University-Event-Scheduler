@@ -8,3 +8,5 @@ In our university, multiple student societies, unions, and committees organize e
 - **Delays in event approvals** – Inefficient communication slowing down the approval process.
 
 To solve these issues, we propose a **web-based event scheduler** that automates venue bookings, prevents conflicts, and streamlines event approvals.
+
+test
